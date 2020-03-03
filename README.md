@@ -1,6 +1,8 @@
 # Tim Green Desktop App
+<p align="center">
+ <img width="256" height="256" src="http://cdn.timgreen.xyz/tg-desktop-app/256x256.png">
+</p> 
 
-![](http://cdn.timgreen.xyz/tg-desktop-app/256x256.png)
 
 ![](http://cdn.timgreen.xyz/tg-desktop-app/desktop-screenshot.png)
 
@@ -12,7 +14,7 @@
 Install the dependencies:
 
 ```sh
-$ cd unofficial-rooster-teeth-desktop-app
+$ cd timgreen-desktop-app
 $ npm install -d
 ```
 
