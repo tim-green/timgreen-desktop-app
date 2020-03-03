@@ -1,5 +1,9 @@
 # Tim Green Desktop App
 
+![](http://cdn.timgreen.xyz/tg-desktop-app/256x256.png)
+
+![](http://cdn.timgreen.xyz/tg-desktop-app/desktop-screenshot.png)
+
 ---
 
 ### Install Dependencies
