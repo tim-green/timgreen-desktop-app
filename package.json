@@ -22,8 +22,8 @@
     "postinstall": "electron-builder install-app-deps"
   },
   "devDependencies": {
-    "electron": "^9.0.0",
-    "electron-builder": "^22.6.1",
+    "electron": "^9.0.5",
+    "electron-builder": "^22.7.0",
     "electron-icon-maker": "0.0.4",
     "jshint": "^2.11.1"
   },
@@ -40,11 +40,11 @@
     "node_modules"
   ],
   "build": {
-    "appId": "com.timgreen.rtdpa",
+    "appId": "com.timgreen.tgdpa",
     "productName": "Tim Green",
     "copyright": "",
     "mac": {
-      "category": "public.app-category.video",
+      "category": "public.app-category.website",
       "target": [
         {
           "target": "dmg"
